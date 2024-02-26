@@ -4,6 +4,7 @@ This is an archive of public audit reports for which I was the primary auditor.
 
 | Title | Organization | Type | Programming Language | Link | 
 | --- | --- | --- | --- | --- |
+ | BoostyLabs Tricorn Bridge Server | BoostyLabs | Bridge, EVM | Go |[📒](https://github.com/HalbornSecurity/PublicReports/blob/master/Cosmos%20Audits/BoostyLabs_Tricorn_Bridge_Server_Golang_Security_Assessment_Report_Halborn_Final.pdf)  |
  | ZetaChain Node Audit | ZetaChain | Cosmos Node Audit, Bridge, Bitcoin, Ethereum | Go, Solidity |[📒](https://drive.google.com/file/d/1323iwH34kOqGzBZIz4iX-Qfo8ACzomNc/view?usp=sharing)  |
 | Groth16 Verifier Audit | MystenLabs (Sui Foundation) | Cryptography, ZK | Rust |[📒](https://github.com/johnsaigle/audits/blob/main/pdfs/Groth16.pdf)  |
 | Mars Protocol - Custom Modules | Mars Protocol | Cosmos node, Governance, DeFi | Go | [📒](https://github.com/mars-protocol/mars-audits/blob/main/hub/halborn/Mars_Protocol_Custom_Modules_Gov_Incentives_Safety_Cosmos_Security.pdf)
